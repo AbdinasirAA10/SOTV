@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once 'inc/spotify-auth.php';
+require_once 'spotify-auth.php';
 ?>
 
 <!DOCTYPE html>
@@ -8,7 +8,7 @@ require_once 'inc/spotify-auth.php';
 <head>
     <meta charset="UTF-8">
     <title>Anaana's Music Zone</title>
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="banner">
@@ -49,3 +49,4 @@ require_once 'inc/spotify-auth.php';
     </footer>
 </body>
 </html>
+
